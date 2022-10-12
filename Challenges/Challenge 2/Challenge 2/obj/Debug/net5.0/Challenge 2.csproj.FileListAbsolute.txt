@@ -1,0 +1,16 @@
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenges\Challenge 2\Challenge 2\bin\Debug\net5.0\Challenge 2.exe
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenges\Challenge 2\Challenge 2\bin\Debug\net5.0\Challenge 2.deps.json
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenges\Challenge 2\Challenge 2\bin\Debug\net5.0\Challenge 2.runtimeconfig.json
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenges\Challenge 2\Challenge 2\bin\Debug\net5.0\Challenge 2.runtimeconfig.dev.json
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenges\Challenge 2\Challenge 2\bin\Debug\net5.0\Challenge 2.dll
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenges\Challenge 2\Challenge 2\bin\Debug\net5.0\Challenge 2.pdb
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenges\Challenge 2\Challenge 2\obj\Debug\net5.0\Challenge 2.csproj.AssemblyReference.cache
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenges\Challenge 2\Challenge 2\obj\Debug\net5.0\Challenge 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenges\Challenge 2\Challenge 2\obj\Debug\net5.0\Challenge 2.AssemblyInfoInputs.cache
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenges\Challenge 2\Challenge 2\obj\Debug\net5.0\Challenge 2.AssemblyInfo.cs
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenges\Challenge 2\Challenge 2\obj\Debug\net5.0\Challenge 2.csproj.CoreCompileInputs.cache
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenges\Challenge 2\Challenge 2\obj\Debug\net5.0\Challenge 2.dll
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenges\Challenge 2\Challenge 2\obj\Debug\net5.0\refint\Challenge 2.dll
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenges\Challenge 2\Challenge 2\obj\Debug\net5.0\Challenge 2.pdb
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenges\Challenge 2\Challenge 2\obj\Debug\net5.0\Challenge 2.genruntimeconfig.cache
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenges\Challenge 2\Challenge 2\obj\Debug\net5.0\ref\Challenge 2.dll
