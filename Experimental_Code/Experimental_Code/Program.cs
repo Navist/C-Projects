@@ -10,8 +10,8 @@ namespace Experimental_Code
 
 
 
-
             //Parsing strings to int
+
             //string myString = "15";
             //string myString2 = "30";
 
@@ -21,8 +21,8 @@ namespace Experimental_Code
             //Console.WriteLine(num1+num2);
 
 
-
             // Implicit conversion
+
             //int num = 123345;
             //long bigNum = num;
 
@@ -34,6 +34,7 @@ namespace Experimental_Code
 
 
             // Explicit conversion
+
             //double myDouble = 13.37;
             //int myInt;
 
@@ -50,6 +51,7 @@ namespace Experimental_Code
 
 
             // Testing the declaration of variables and how to interact with them
+
             //int num1, num2;
 
             //num1 = 13;

@@ -1,0 +1,16 @@
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenge 1\Challenge 1\obj\Debug\net5.0\Challenge 1.csproj.AssemblyReference.cache
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenge 1\Challenge 1\obj\Debug\net5.0\Challenge 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenge 1\Challenge 1\obj\Debug\net5.0\Challenge 1.AssemblyInfoInputs.cache
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenge 1\Challenge 1\obj\Debug\net5.0\Challenge 1.AssemblyInfo.cs
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenge 1\Challenge 1\obj\Debug\net5.0\Challenge 1.csproj.CoreCompileInputs.cache
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenge 1\Challenge 1\bin\Debug\net5.0\Challenge 1.exe
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenge 1\Challenge 1\bin\Debug\net5.0\Challenge 1.deps.json
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenge 1\Challenge 1\bin\Debug\net5.0\Challenge 1.runtimeconfig.json
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenge 1\Challenge 1\bin\Debug\net5.0\Challenge 1.runtimeconfig.dev.json
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenge 1\Challenge 1\bin\Debug\net5.0\Challenge 1.dll
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenge 1\Challenge 1\bin\Debug\net5.0\Challenge 1.pdb
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenge 1\Challenge 1\obj\Debug\net5.0\Challenge 1.dll
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenge 1\Challenge 1\obj\Debug\net5.0\refint\Challenge 1.dll
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenge 1\Challenge 1\obj\Debug\net5.0\Challenge 1.pdb
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenge 1\Challenge 1\obj\Debug\net5.0\Challenge 1.genruntimeconfig.cache
+E:\Desktop Stuff\Class Stuff\Udemy\C# Projects\Challenge 1\Challenge 1\obj\Debug\net5.0\ref\Challenge 1.dll
